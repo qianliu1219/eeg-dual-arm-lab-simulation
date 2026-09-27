@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the upstream methods and datasets described in README.md."
+title: "Offline EEG supervisory control for simulated dual-arm laboratory automation"
+type: software
+authors:
+  - family-names: Ben Ammar
+    given-names: Abir
+  - family-names: Liu
+    given-names: Qian
+    affiliation: The University of Winnipeg
+repository-code: "https://github.com/qianliu1219/eeg-dual-arm-lab-simulation"
+license: MIT
+abstract: "Source release of an offline EEG replay and discrete DQN simulation prototype. Qian Liu is the repository maintainer; the manuscript author order is finalized separately."

@@ -1,0 +1,7 @@
+# Install separately from ROS. Original exact versions were not recorded.
+numpy
+scipy
+scikit-learn
+mne
+tensorflow
+matplotlib

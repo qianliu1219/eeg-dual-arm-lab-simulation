@@ -1,0 +1,5 @@
+# Package names only: original environment versions were not recorded.
+numpy
+gymnasium
+torch
+matplotlib

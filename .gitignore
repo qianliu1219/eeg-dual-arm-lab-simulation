@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.pkl
+*.h5
+*.pth
+*.edf
+*.csv
+eeg_concentration_data/
+EEG_blink_detector/
+*.png

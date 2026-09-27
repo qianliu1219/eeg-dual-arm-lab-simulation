@@ -1,0 +1,80 @@
+[
+  {
+    "file": "eeg_blink_cnn_train.py",
+    "original": "eeg_project/eeg_blink_cnn_train.py",
+    "sha256": "1273ebfe80ca6033528d0c1418591107b469218b8fd069f53e720e37d7a170a9",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_blink_train.py",
+    "original": "eeg_project/eeg_blink_train.py",
+    "sha256": "0a52bb07ba59422541cab54bfe482c7e05bbdb5851104976e2f1faec275ba645",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_concentration_train.py",
+    "original": "eeg_project/eeg_concentration_train.py",
+    "sha256": "edad0cf2087de2059493f08fc218743ded54aecf9f9ee4443fb62a75761825f9",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_concentration_train_csp.py",
+    "original": "eeg_project/eeg_concentration_train_csp.py",
+    "sha256": "3fc75a76b448d93117c0973c39853bb7a38de19d5a094af9940b2200bf3169ba",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_concentration_train_cnn.py",
+    "original": "eeg_project/eeg_concentration_train_cnn.py",
+    "sha256": "2dec5d134a513300737471dc62ce53e5309b6f2c0ddceb521906bf1f9e9e7b3d",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_prepare_robot_test_streams.py",
+    "original": "eeg_project/eeg_prepare_robot_test_streams.py",
+    "sha256": "61359ea914e54ac6155bfa2e78cf53faa06a2d7d8e04886930ef6995d3e84acd",
+    "modification": "none"
+  },
+  {
+    "file": "mybuddy_env_sequence_v3.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/mybuddy_env_sequence_v3.py",
+    "sha256": "c142f747c42884c8b0959dc6d43000f8f7f299d2f5c6f0affa25d77350ad37a0",
+    "modification": "none"
+  },
+  {
+    "file": "mybuddy_env_sequence_right.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/mybuddy_env_sequence_right.py",
+    "sha256": "a5429ad6b1a47ae8af120a99f753480a00197c482016336395b75a73806dfe19",
+    "modification": "none"
+  },
+  {
+    "file": "dqn_train_sequence_v3.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/dqn_train_sequence_v3.py",
+    "sha256": "3e200b5a6f7e613610f2ea6661ad92cfde972767bb0e5cdf43ba4208ddbeb0c2",
+    "modification": "none"
+  },
+  {
+    "file": "dqn_train_sequence_right.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/dqn_train_sequence_right.py",
+    "sha256": "a7a27fa2a4aaa3c22a933d939e06b97af35bba37fb83e9da0378b71f515811ee",
+    "modification": "none"
+  },
+  {
+    "file": "dqn_gazebo_sequence_v3.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/dqn_gazebo_sequence_v3.py",
+    "sha256": "bfae46e958bf6b6e7fa6c05d1a0a71f3488dd26d514d716b47fd4a35176fd89a",
+    "modification": "none"
+  },
+  {
+    "file": "dqn_gazebo_sequence_right.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/dqn_gazebo_sequence_right.py",
+    "sha256": "855a2485e9389c939232fc7948e933ea7321704bde15d73dac138d0f7514514d",
+    "modification": "none"
+  },
+  {
+    "file": "eeg_interface.py",
+    "original": "colcon_ws_IGNITION/src/mybuddy_rl/eeg_interface.py",
+    "sha256": "a9f93303d193850a6aa97fa9eb65e637629ae0d90e9d5db8e21eec2bcea5d49f",
+    "modification": "none"
+  }
+]
