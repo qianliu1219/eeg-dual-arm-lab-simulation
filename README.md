@@ -64,4 +64,4 @@ The original scripts expect `~/colcon_ws_IGNITION/src/mybuddy_rl/` for the execu
 
 Original project code is released under MIT at the corresponding author's direction. Portions of the blink CNN implementation follow Atzingen's MIT-licensed project; its copyright and license are preserved in `LICENSE-Atzingen.txt` and `THIRD_PARTY_NOTICES.md`. Dataset and robot-asset licenses remain separate. See `CITATION.cff` for software citation; there is no publication DOI yet.
 
-This research was supported in part by the Natural Sciences and Engineering Research Council of Canada (NSERC) through Discovery Grant RGPIN-2024-05844 awarded to Qian Liu.
+
